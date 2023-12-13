@@ -1,0 +1,24 @@
+{
+  "rooms": [
+    {
+      "roomCode": "CE 1",
+      "roomPurpose": "Accident",
+      "isUse": 0
+    },
+    {
+      "roomCode": "CE 4",
+      "roomPurpose": "Stroke",
+      "isUse": 0
+    },
+    {
+      "roomCode": "CE 8",
+      "roomPurpose": "Allergies",
+      "isUse": 1
+    },
+    {
+      "roomCode": "Treatment Room 1",
+      "roomPurpose": "Covid",
+      "isUse": 1
+    }
+  ]
+}
